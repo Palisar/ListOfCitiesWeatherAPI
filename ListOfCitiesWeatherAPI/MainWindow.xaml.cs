@@ -78,7 +78,6 @@ namespace ListOfCitiesWeatherAPI
             //{
               //      if (index[this] != indexer[last]) { letter(defined by int) increases to next letter} 
             //}
-            
         }
 
       
